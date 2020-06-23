@@ -3,8 +3,8 @@
 
 Goals:
 
-Create a dashboard with basic metrics for Azure VMs
-Create an alert rule and action group
+Create a dashboard with basic metrics for Azure VMs.
+Create an alert rule and action group.
 
 Prerequisites:
 
